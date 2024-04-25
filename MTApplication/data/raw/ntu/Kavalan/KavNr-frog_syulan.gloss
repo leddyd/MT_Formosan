@@ -1,0 +1,44 @@
+ EXIST one.person  child  and dog  one dog  <AF>breed OBL  frog
+  DM  EXIST <AF>see OBL frog
+  it.turn.out  AF.sleep=PFV child  and dog
+  AF-run=PFV  frog that from LOC-  bottle-LOC
+  AF.wake.up child that  and dog that DM
+  NEG=PFV frog that
+  DM  RED-look.for-LF GEN child that  and dog that  frog
+  look-LF GEN child that LOC-  shoes-LOC
+  it.turn.out  CAU-enter-LF-3SG.GEN GEN dog that  head-3SG.GEN  toward.here LOC-  bottle-LOC DM
+  unable=PFV take that  head-3SG.GEN LOC-bottle-LOC FS
+  MA-stuck=PFV LOC-  bottle-LOC
+  DM  break-LF-3SG.GEN=PFV child  bottle that  then.only FS  take head-3SG.GEN  dog that
+  DM  AF.go=PFV LOC mountain  <AF>look.for  continue  <AF>yell OBL  frog that LOC mountain
+  RED-yell 3PL.POSS
+  DM  FS  see-LF-3SG.GEN=PFV one that  FIL  one  hole  hole GEN GEN mouse
+  EXIST dog that  see-LF-3SG.GEN  that  LOC  LOC  tree-LOC  that
+  LOC-tree-LOC  that  FIL
+  that how speak  forget LE
+  NEG  NEG  frog that PA-find-LF-3SG.GEN
+  DM  AF-go.up=PFV child that  toward.there LOC-  tree-LOC
+  EXIST hole GEN tree
+  NEG also frog that
+  it.turn.out  LOC-inside GEN tree EXIST  FIL  bird
+  AF-surprised child that  <AF>fall=PFV LOC-tree-LOC  from LOC-tree-LOC  child that
+  it.turn.out  FIL  chase-LF-3PL.GEN  bee that  dog that  continue chase-LF-3PL.GEN
+  continue AF-run dog that
+  bird that DM  chase-LF GEN child  also
+  AF-go.up=PFV OBL stone  child that
+  it.turn.out  LOC-backside GEN stone  EXIST that goat
+  catch 3SG.POSS child that that FS  horn GEN goat that
+  there <AF>yell OBL  <AF>look.for OBL  frog-3SG.GEN  DM
+  cannot-LF-3SG.GEN OBL goat that
+  it.turn.out  AF.get.up goat that  DM
+  throw-LF-3SG.GEN LOC-  deep-LOC
+  DM  river  and dog that  all-LF-3SG.GEN CLF.HUM-two throw
+  DM  AF-swim=PFV  child that  and dog that  toward shore
+  it.turn.out=PFV FS FS LOC-backside GEN  tree  EXIST
+  quiet-AF.IMP quiet-AF.IMP  say GEN child that  OBL dog that
+  EXIST that  frog that LOC-backside GEN tree
+  FIL  spouse CLF.HUM-two  EXIST CLF.NHUM-seven  child GEN frog that
+  DM  see-LF-3SG.GEN that  spouse FS   mother-3PL.GEN father-3PL.GEN  GEN frog that
+  child this want=1SG.NOM COMP  breed OBL one frog  say-3SG.GEN see-LF-3SG.GEN AF-like  OBL frog DM
+  give-LF-3PL.GEN=PFV father-3SG.GEN  mother-3SG.GEN OBL  one  OBL child that  SA-CAU-return-NMZ-2SG.GEN say-3PL.GEN
+  DM  thanks  thank.you thanks  say GEN mother  GEN child that  OBL father  father-3SG.GEN mother-3SG.GEN
