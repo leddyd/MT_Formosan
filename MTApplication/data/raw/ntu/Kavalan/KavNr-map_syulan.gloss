@@ -1,0 +1,18 @@
+ FIL  LOC-house-LOC GEN PN  begin <AF>walk
+  AF-cross OBL  river
+  DM  AF.go LOC mountain
+  LOC-mountain-LOC
+  FIL  <AF>see  see-LF-3SG.GEN  pig GEN mountain
+  <AF>come.down FS FS  FS LOC-mountain-LOC DM
+  AF.go LOC-house-LOC GEN  PN
+  FIL CLF.NHUM-two  hour-AN LOC-  house-LOC GEN PN
+  DM  FIL  <AF>come.down=PFV
+  AF.go  toward right
+  <AF>walk
+  EXIST LOC-beside-LOC GEN right  EXIST LOC-beside-LOC GEN right  pond
+  <AF>walk DM  AF-cross OBL  river
+  DM  AF-again toward front  <AF>walk DM
+  FIL  AF-cross OBL  paddy.field
+  AF-cross OBL paddy.field  toward front <AF>walk DM
+  AF-cross OBL many.NHUM  tree
+  AF.arrive=PFV OBL house

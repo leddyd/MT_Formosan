@@ -1,0 +1,38 @@
+ EXIST just.now NOM  EXIST PART  NOM  person LNK that
+  AF.go AF-pick.up  AF.go LOC  PFV-plant-NMZ-3SG.GEN OBL  guava
+  AF-pick.up  OBL guava  male.elder-AN 3SG.NOM
+  EXIST awhile  EXIST=PFV NOM child-3SG.GEN
+  EXIST=PFV NOM child-3SG.GEN DM
+  EXIST=PFV help-LF-3SG.GEN child-3SG.GEN  put LOC-basket-LOC  OBL guava DM
+  full=PFV NOM  basket-3SG.GEN  NOM basket-3SG.GEN DM
+  good full=PFV NOM basket-1IPL.GEN
+  EXIST ??-send-NAF-1IPL.GEN  say-3PL.GEN maybe
+  that’s male.elder-AN LNK that DM
+  leave=PFV AF-ascend  AF-ascend=FUT=1IPL.NOM  LOC-top COND
+  fill=FUT=1IPL.NOM again
+  ??-fill-LF-1IPL.GEN FS  LOC-basket LNK this  think-3SG.GEN maybe DM
+  leave=PFV FS FIL  AF-ascend DM
+  that’s child LNK that DM
+  <AF>send=PFV  send-NAF-1IPL.GEN  NMZ-take-1IPLGEN  say-3SG.GEN
+  AF-ascend  DM put-LF-3SG.GEN LOC  LOC-something-LOC PART  LOC-vehicle-LOC
+  <AF>send  <AF>send  how not.know  PFV-walk-3SG.GEN DM  fall=PFV NOM child LNK that
+  scatter=PFV NOM  guava LNK that  AF-all DM
+  EXIST=PFV NOM child LNK that  AF-stroke  LOC shank.bone-3SG.GEN LOC
+  that.way maybe  hit-LF-3SG.GEN GEN  that   vehicle-3SG.GEN where not.know
+  DM  EXIST=PFV NOM others  others-3SG.GEN
+  help-LF-3PL.GEN=PFV GEN other-3SG.GEN  <AF>pick.one.by.one put LOC-  basket-LOC DM
+  put-LF-3PL.GEN=PFV again LOC-  something-LOC PART  LOC-  vehicle-LOC-3SG.GEN  LOC-bicycle-LOC-3SG.GEN DM
+  finish DM  leave=PFV send-LF-3SG.GEN
+  turn.out  <AF>walk NOM  child LNK that X  <AF>fall=PFV NOM hat-3SG..GEN DM
+  INT  <AF>fall=PFV NOM hat-1IPL.GEN  DM  leave=PFV child LNK that
+  that’s friend-3SG.GEN DM  then take-NAF-1IPL.GEN hat-3SG.GEN  <AF>fall take-LF-3PL.GEN=PFV GEN FS  GEN other-3SG.GEN NOM  hat LNK that DM
+  come.to LOC  LOC-<PFV>walk-3SG.GEN DM
+  whistle-LF-3PL.GEN=PFV GEN  child LNK that DM  CAU-vehicle OBL  guava DM
+  EXIST=PFV NOM child LNK that  <AF>send OBL hat-3SG.GEN DM
+  pay-LF-3SG.GEN OBL  CLF.NHUM-two OBL  guava  say-3SG.GEN
+  that’s male.elder-AN LNK that DM  X  finish DM  <AF>turn.round=PFV NOM child LNK that
+ NEG=1SG.NOM <AF>see  <AF>turn.round
+  finish DM  EXIST=PFV NOM X  male.elder-AN that <AF>descend
+  <AF>see OBL basket-3SG.GEN
+  ??-basket=PFV only DM  and half
+  that’s.all
