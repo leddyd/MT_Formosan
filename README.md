@@ -30,8 +30,8 @@ Installations are handled through the notebooks.
 - Translator.ipynb is unfinished. Instead, use NLLB-fine-tuning.ipynb in src/scripts.
 
 # Hugging Face models
-- Amis to English | hunterschep/amis-english
-- English to Amis | dylan-leddy/nllb-eng-ami-reverse
-- Paiwan to English | hunterschep/paiwan-english
-- English to Paiwan | hunterschep/english-paiwan
+- Amis to English | [hunterschep/amis-english](https://huggingface.co/hunterschep/amis-english)
+- English to Amis | [dylan-leddy/nllb-eng-ami-reverse](https://huggingface.co/dylan-leddy/nllb-eng-ami-reverse)
+- Paiwan to English | [hunterschep/paiwan-english](https://huggingface.co/hunterschep/paiwan-english)
+- English to Paiwan | [hunterschep/english-paiwan](https://huggingface.co/hunterschep/english-paiwan)
    
