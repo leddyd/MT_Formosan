@@ -5,6 +5,8 @@ End-to-end machine translation for low-resource languages spoken by the indigeno
 This project was created by Hunter Scheppat, Dylan Leddy, Junhao Yan, Zelig Riyanto, and Christopher DiScala at Boston College.
 
 # Prerequisites
+* Google Drive account
+* Colab compute hours
 ```
 * Google Drive account
 * Colab compute hours
