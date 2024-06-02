@@ -27,4 +27,5 @@ Installations are handled through the notebooks.
 - Download the files in src and upload them to your Google Drive. Modify code directly in the Colab notebooks.
 - We include our raw data (data/raw) - feel free to inspect them. Though, the only data you need for working with this project are the CSV files in data/unprocessed and data/processed.
 - If you plan on using the pivot script, you'll need your own DeepL API key.
+- Translator.ipynb is unfinished. Instead, use NLLB-fine-tuning.ipynb in src/scripts.
    
