@@ -7,11 +7,7 @@ This project was created by Hunter Scheppat, Dylan Leddy, Junhao Yan, Zelig Riya
 # Prerequisites
 * Google Drive account
 * Colab compute hours
-```
-* Google Drive account
-* Colab compute hours
 * Optional DeepL API key 
-```
 
 # Libraries we use
 ```
@@ -28,9 +24,8 @@ Import-ipynb
 Installations are handled through the notebooks.
 
 # Usage
-```
 - Download the files in src and upload them to your Google Drive. Modify code directly in the Colab notebooks.
-- We include our raw data (data/raw) - feel free to inspect them. Though, the only data you need for working with this project are the CSV files in data/unprocessed and data/processed.
+- We include our raw data (data/raw) - feel free to inspect them. Though, the only data you need for working
+  with this project are the CSV files in data/unprocessed and data/processed.
 - If you plan on using the pivot script, you'll need your own DeepL API key.
-```
    
