@@ -28,4 +28,10 @@ Installations are handled through the notebooks.
 - We include our raw data (data/raw) - feel free to inspect them. Though, the only data you need for working with this project are the CSV files in data/unprocessed and data/processed.
 - If you plan on using the pivot script, you'll need your own DeepL API key.
 - Translator.ipynb is unfinished. Instead, use NLLB-fine-tuning.ipynb in src/scripts.
+
+# Hugging Face models
+Amis to English | hunterschep/amis-english
+English to Amis | dylan-leddy/nllb-eng-ami-reverse
+Paiwan to English | hunterschep/paiwan-english
+English to Paiwan | hunterschep/english-paiwan
    
