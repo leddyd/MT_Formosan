@@ -6,9 +6,9 @@ This project was created by Hunter Scheppat, Dylan Leddy, Junhao Yan, Zelig Riya
 
 # Prerequisites
 ```
-- Google Drive account
-- Colab compute hours
-- Optional DeepL API key 
+* Google Drive account
+* Colab compute hours
+* Optional DeepL API key 
 ```
 
 # Libraries we use
