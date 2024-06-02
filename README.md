@@ -26,8 +26,8 @@ Installations are handled through the notebooks.
 # Usage
 - Download the files in src and upload them to your Google Drive. Modify code directly in the Colab notebooks.
 - We include our raw data (data/raw) - feel free to inspect them. Though, the only data you need for working with this project are the CSV files in data/unprocessed and data/processed.
-- If you plan on using the pivot script, you'll need your own DeepL API key.
-- Translator.ipynb is unfinished. Instead, use NLLB-fine-tuning.ipynb in src/scripts.
+- If you plan on using pivot scripts, you'll need your own DeepL API key. Scripts used for pivoting are src/Pivoter and src/scripts/ScrapeDataSources. 
+- Translator.ipynb is unfinished. Instead, use NLLB-fine-tuning.ipynb in src/scripts. src/scripts/ScrapeDataSources.ipynb contains more comprehensive code for extracting data than Scraper.ipynb. 
 
 # Hugging Face models
 - Amis to English | [hunterschep/amis-english](https://huggingface.co/hunterschep/amis-english)
