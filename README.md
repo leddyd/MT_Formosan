@@ -9,7 +9,7 @@ This project was created by Hunter Scheppat, Dylan Leddy, Junhao Yan, Zelig Riya
 * Colab compute hours
 * Optional DeepL API key 
 
-# Libraries we use
+# Package Dependencies
 ```
 BeautifulSoup
 Selenium
